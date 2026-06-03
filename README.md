@@ -188,7 +188,7 @@
 
 <div align="center">
   <br />
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20build%20it." alt="Quote" />
+ <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=We%20wanted%20flying%20cars%2C%20instead%20we%20got%20140%20characters.&author=Peter%20Thiel" alt="Quote by Peter Thiel" />
   <br />
   <sub>⭐ If you like my work, feel free to star my repositories!</sub>
   <br />
