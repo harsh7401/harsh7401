@@ -37,7 +37,7 @@
       </ul>
     </td>
     <td width="40%" valign="top" align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="100%" alt="Coding Animation GIF" />
+      <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="100%" alt="Coding Animation GIF" />
     </td>
   </tr>
 </table>
