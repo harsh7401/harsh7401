@@ -47,6 +47,7 @@
 ### 📊 GitHub Stats & Activity
 
 <div align="center">
+  <!-- Top Stats Row -->
   <table border="0">
     <tr>
       <td width="50%" align="center">
@@ -60,7 +61,17 @@
   
   <br />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh7401&theme=tokyonight&hide_border=true" alt="Harsh's GitHub Streak" />
+  <!-- Bottom Streak & GIF Row -->
+  <table border="0">
+    <tr>
+      <td width="60%" align="left" valign="middle">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh7401&theme=tokyonight&hide_border=true" alt="Harsh's GitHub Streak" />
+      </td>
+      <td width="40%" align="center" valign="middle">
+        <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="85%" alt="Stats Side Coding GIF" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
