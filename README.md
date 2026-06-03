@@ -1,10 +1,8 @@
 <div align="center">
-  <!-- Typing Title: Hi, I'm Harsh Shrivastava -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Harsh+Shrivastava" alt="Typing Title" />
   
   <br />
 
-  <!-- Typing Subtitle: Roles looping sequentially -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2AC3DE&center=true&vCenter=true&width=500&height=40&lines=Full-Stack+Developer+%F0%9F%9A%80;MERN+Stack+Enthusiast+%F0%9F%92%BB;AI+Explorer+%F0%9F%A4%96" alt="Typing Subtitle" />
 
   <p align="center">
@@ -15,6 +13,12 @@
 </div>
 
 ---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" alt="Developer Banner GIF" />
+</div>
+
+<br />
 
 ### 🧠 About Me
 
@@ -123,6 +127,12 @@
 </details>
 
 ---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="100%" alt="Featured Projects Divider GIF" />
+</div>
+
+<br />
 
 ### 📌 Featured Projects
 
