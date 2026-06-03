@@ -1,10 +1,8 @@
 <div align="center">
-  <!-- Typing Title: Hi, I'm Harsh Shrivastava -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Harsh+Shrivastava" alt="Typing Title" />
   
   <br />
 
-  <!-- Typing Subtitle: Roles looping sequentially -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2AC3DE&center=true&vCenter=true&width=500&height=40&lines=Full-Stack+Developer+%F0%9F%9A%80;MERN+Stack+Enthusiast+%F0%9F%92%BB;AI+Explorer+%F0%9F%A4%96" alt="Typing Subtitle" />
 
   <p align="center">
@@ -24,10 +22,10 @@
 
 ### 🧠 About Me
 
-<table border="0">
-  <tr>
-    <td width="60%" valign="top">
-      <blockquote><b>"Building solutions that solve real-world problems through technology."</b></blockquote>
+<table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse; box-shadow: none;">
+  <tr style="border: none;">
+    <td width="60%" valign="top" style="border: none;">
+      <p style="font-size: 1.1em; color: #7AA2F7;"><b>"Building solutions that solve real-world problems through technology."</b></p>
       <ul>
         <li>🎓 <b>Education:</b> Computer Science Engineering student at <b>KIET Group of Institutions</b></li>
         <li>💻 <b>Passion:</b> Full-Stack Development, Web Applications, and AI-powered products.</li>
@@ -36,7 +34,7 @@
         <li>☕ <b>Formula:</b> Curiosity + Coding = Productivity</li>
       </ul>
     </td>
-    <td width="40%" valign="top" align="center">
+    <td width="40%" valign="top" align="center" style="border: none;">
       <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="100%" alt="Coding Animation GIF" />
     </td>
   </tr>
@@ -47,13 +45,12 @@
 ### 📊 GitHub Stats & Activity
 
 <div align="center">
-  <!-- Top Stats Row -->
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
+  <table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse; box-shadow: none;">
+    <tr style="border: none;">
+      <td width="50%" align="center" style="border: none;">
         <img src="https://github-readme-stats-one-bice.vercel.app/api?username=harsh7401&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Harsh's GitHub Stats" />
       </td>
-      <td width="50%" align="center">
+      <td width="50%" align="center" style="border: none;">
         <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=harsh7401&layout=compact&theme=tokyonight&hide_border=true" alt="Harsh's Top Languages" />
       </td>
     </tr>
@@ -61,13 +58,12 @@
   
   <br />
   
-  <!-- Bottom Streak & GIF Row -->
-  <table border="0">
-    <tr>
-      <td width="60%" align="left" valign="middle">
+  <table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse; box-shadow: none;">
+    <tr style="border: none;">
+      <td width="60%" align="left" valign="middle" style="border: none;">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh7401&theme=tokyonight&hide_border=true" alt="Harsh's GitHub Streak" />
       </td>
-      <td width="40%" align="center" valign="middle">
+      <td width="40%" align="center" valign="middle" style="border: none;">
         <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="85%" alt="Stats Side Coding GIF" />
       </td>
     </tr>
@@ -151,17 +147,14 @@
 
 ---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="100%" alt="Featured Projects Divider GIF" />
-</div>
 
 <br />
 
 ### 📌 Featured Projects
 
-<table border="0">
-  <tr>
-    <td width="50%" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse; box-shadow: none;">
+  <tr style="border: none;">
+    <td width="50%" valign="top" style="border: none;">
       <h3>🎨 Novus</h3>
       <p><i>AI-Powered Image Editing Platform</i></p>
       <p><b>Tech Stack:</b> Next.js, Fabric.js, Clerk, Tailwind CSS, ImageKit, Shadcn UI</p>
@@ -172,7 +165,7 @@
         <li>📈 Maintained 99.9% application uptime.</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="border: none;">
       <h3>💸 Divvy</h3>
       <p><i>Smart Bill Splitting Application</i></p>
       <p><b>Tech Stack:</b> Next.js, Convex, Clerk, Tailwind CSS, Inngest</p>
@@ -194,6 +187,10 @@
 * ⚡ High-throughput, Scalable Backend Systems
 
 ---
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" />
+</div>
+
 
 ### ⚡ Fun Facts
 * 🥋 I double as the Martial Arts Club President. 
