@@ -5,8 +5,7 @@
   <br />
 
   <!-- Typing Subtitle: Roles looping sequentially -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2AC3DE&center=true&vCenter=true&width=500&height=40&lines=Full-Stack+Developer+%F0%9F%9A%80;MERN+Stack+Enthusiast+%F0%9F%92%BB;AI+Explorer+%F0%9F%A4%96" alt="Typing Subtitle" />
-
+  <h3>🚀 Full-Stack Developer | 💻 MERN Stack Enthusiast | 🤖 AI Explorer</h3>
   <p align="center">
     <a href="https://www.linkedin.com/in/harsh-shrivastava-59162a291/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="mailto:harshcse1075@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
