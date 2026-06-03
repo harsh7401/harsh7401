@@ -5,7 +5,8 @@
   <br />
 
   <!-- Typing Subtitle: Roles looping sequentially -->
-  <h3>🚀 Full-Stack Developer | 💻 MERN Stack Enthusiast | 🤖 AI Explorer</h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2AC3DE&center=true&vCenter=true&width=500&height=40&lines=Full-Stack+Developer+%F0%9F%9A%80;MERN+Stack+Enthusiast+%F0%9F%92%BB;AI+Explorer+%F0%9F%A4%96" alt="Typing Subtitle" />
+
   <p align="center">
     <a href="https://www.linkedin.com/in/harsh-shrivastava-59162a291/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="mailto:harshcse1075@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
@@ -33,11 +34,9 @@
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <!-- Added a fallback domain mirror to bypass Vercel rate-limits -->
         <img src="https://github-readme-stats-one-bice.vercel.app/api?username=harsh7401&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Harsh's GitHub Stats" />
       </td>
       <td width="50%" align="center">
-        <!-- Corrected path structure -->
         <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=harsh7401&layout=compact&theme=tokyonight&hide_border=true" alt="Harsh's Top Languages" />
       </td>
     </tr>
@@ -53,42 +52,73 @@
 ### 🛠️ Tech Stack
 
 <details open>
-<summary><b>💻 Languages & Frontend</b></summary>
+<summary><b>💻 Programming Languages</b></summary>
 <br />
 <p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" height="28" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" height="28" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" height="28" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" height="28" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" height="28" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" height="28" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" height="28" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" height="28" />
-  <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" height="28" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" height="28" />
-  <img src="https://img.shields.io/badge/Shadcn_UI-000000?style=flat-square&logo=shadcnui&logoColor=white" alt="Shadcn UI" height="28" />
 </p>
 </details>
 
 <details open>
-<summary><b>🔥 Backend & Databases</b></summary>
+<summary><b>⚛️ Frontend Development</b></summary>
+<br />
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" height="28" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" height="28" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" height="28" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" height="28" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" height="28" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" height="28" />
+</p>
+</details>
+
+<details open>
+<summary><b>🔥 Backend & Database</b></summary>
 <br />
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" height="28" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white" alt="Express.js" height="28" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" height="28" />
-  <img src="https://img.shields.io/badge/Convex-231F20?style=flat-square&logo=convex&logoColor=white" alt="Convex Backend" height="28" />
-  <img src="https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white" alt="Clerk Auth" height="28" />
-  <img src="https://img.shields.io/badge/Inngest-22C55E?style=flat-square&logo=inngest&logoColor=white" alt="Inngest" height="28" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" height="28" />
 </p>
 </details>
 
 <details open>
-<summary><b>⚙️ Tools & Libraries</b></summary>
+<summary><b>🤖 AI / ML Ecosystem</b></summary>
 <br />
 <p align="left">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" height="28" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" height="28" />
+  <img src="https://img.shields.io/badge/Scikit__Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" height="28" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" height="28" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" height="28" />
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=matplotlib&logoColor=black" alt="Matplotlib" height="28" />
+  <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" height="28" />
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" alt="Google Colab" height="28" />
+</p>
+</details>
+
+<details open>
+<summary><b>☁️ DevOps & Backend-as-a-Service (BaaS)</b></summary>
+<br />
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-web-services&logoColor=white" alt="AWS" height="28" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" height="28" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" height="28" />
+</p>
+</details>
+
+<details open>
+<summary><b>⚙️ Tools & Platforms</b></summary>
+<br />
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" height="28" />
   <img src="https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white" alt="Git" height="28" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub" height="28" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" height="28" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" height="28" />
-  <img src="https://img.shields.io/badge/Fabric.js-FFA500?style=flat-square&alt=Fabric.js" height="28" />
 </p>
 </details>
 
