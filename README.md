@@ -23,8 +23,8 @@
 * 🎓 **Education:** Computer Science Engineering student at **KIET Group of Institutions**
 * 💻 **Passion:** Full-Stack Development, Web Applications, and AI-powered products.
 * 🚀 **Mission:** Transforming ambitious ideas into scalable, user-friendly production-ready products.
-* 🏆 **Leadership:** President of the **KIET Martial Arts Club**, leading 40+ members and organizing multiple inter-college events.
-* ☕ **Formula:** Coffee + Coding = Productivity
+* 🏆 **Leadership:** Ex-President of the **KIET Martial Arts Club**, Ex-CoFounder of Xartech.
+* ☕ **Formula:** Curiosity + Coding = Productivity
 
 ---
 
