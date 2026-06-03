@@ -1,8 +1,10 @@
 <div align="center">
+  <!-- Typing Title: Hi, I'm Harsh Shrivastava -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Harsh+Shrivastava" alt="Typing Title" />
   
   <br />
 
+  <!-- Typing Subtitle: Roles looping sequentially -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2AC3DE&center=true&vCenter=true&width=500&height=40&lines=Full-Stack+Developer+%F0%9F%9A%80;MERN+Stack+Enthusiast+%F0%9F%92%BB;AI+Explorer+%F0%9F%A4%96" alt="Typing Subtitle" />
 
   <p align="center">
@@ -15,20 +17,30 @@
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" alt="Developer Banner GIF" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Developer Banner GIF" />
 </div>
 
 <br />
 
 ### 🧠 About Me
 
-> **"Building solutions that solve real-world problems through technology."**
-
-* 🎓 **Education:** Computer Science Engineering student at **KIET Group of Institutions**
-* 💻 **Passion:** Full-Stack Development, Web Applications, and AI-powered products.
-* 🚀 **Mission:** Transforming ambitious ideas into scalable, user-friendly production-ready products.
-* 🏆 **Leadership:** Ex-President of the **KIET Martial Arts Club**, Ex-CoFounder of Xartech.
-* ☕ **Formula:** Curiosity + Coding = Productivity
+<table border="0">
+  <tr>
+    <td width="60%" valign="top">
+      <blockquote><b>"Building solutions that solve real-world problems through technology."</b></blockquote>
+      <ul>
+        <li>🎓 <b>Education:</b> Computer Science Engineering student at <b>KIET Group of Institutions</b></li>
+        <li>💻 <b>Passion:</b> Full-Stack Development, Web Applications, and AI-powered products.</li>
+        <li>🚀 <b>Mission:</b> Transforming ambitious ideas into scalable, user-friendly production-ready products.</li>
+        <li>🏆 <b>Leadership:</b> Ex-President of the <b>KIET Martial Arts Club</b>, Ex-CoFounder of Xartech.</li>
+        <li>☕ <b>Formula:</b> Curiosity + Coding = Productivity</li>
+      </ul>
+    </td>
+    <td width="40%" valign="top" align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="100%" alt="Coding Animation GIF" />
+    </td>
+  </tr>
+</table>
 
 ---
 
