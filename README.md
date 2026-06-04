@@ -129,7 +129,7 @@
 
 <td width="30%" align="center">
 
-<img src="https://raw.githubusercontent.com/Kiran1689/kiran1689/main/Skills_Animation_Dark.gif" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="100%" />
 
 </td>
 </tr>
