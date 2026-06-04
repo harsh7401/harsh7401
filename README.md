@@ -1,9 +1,9 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=1500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Harsh+Shrivastava" alt="Typing Title" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=1800&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Harsh+Shrivastava" alt="Typing Title" />
   
   <br />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2AC3DE&center=true&vCenter=true&width=500&height=40&lines=Full-Stack+Developer+%F0%9F%9A%80;MERN+Stack+Enthusiast+%F0%9F%92%BB;AI+Explorer+%F0%9F%A4%96" alt="Typing Subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=1800&size=20&pause=1000&color=2AC3DE&center=true&vCenter=true&width=500&height=40&lines=Full-Stack+Developer+%F0%9F%9A%80;MERN+Stack+Enthusiast+%F0%9F%92%BB;AI+Explorer+%F0%9F%A4%96" alt="Typing Subtitle" />
 
   <p align="center">
     <a href="https://www.linkedin.com/in/harsh-shrivastava-59162a291/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
