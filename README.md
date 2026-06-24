@@ -51,7 +51,7 @@
   <table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse; box-shadow: none;">
     <tr style="border: none;">
       <td width="50%" align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=harsh7401&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+         <img src="https://github-readme-stats-one-bice.vercel.app/api?username=harsh7401&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Harsh's GitHub Stats" />
       </td>
       <td width="50%" align="center" style="border: none;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh7401&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=&hide=jupyter%20notebook" />
