@@ -54,7 +54,7 @@
          <img src="https://github-readme-stats-one-bice.vercel.app/api?username=harsh7401&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Harsh's GitHub Stats" />
       </td>
       <td width="50%" align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh7401&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=&hide=jupyter%20notebook" />
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh7401&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=jupyter%20notebook" />
       </td>
     </tr>
   </table>
