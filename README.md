@@ -54,7 +54,7 @@
          <img src="https://github-readme-stats-one-bice.vercel.app/api?username=harsh7401&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Harsh's GitHub Stats" />
       </td>
       <td width="50%" align="center" style="border: none;">
-       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh7401&layout=compact" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harsh7401&theme=tokyonight" />
       </td>
     </tr>
   </table>
