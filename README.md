@@ -63,9 +63,12 @@
   
   <table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse; box-shadow: none;">
     <tr style="border: none;">
-      <td width="60%" align="left" valign="middle" style="border: none;">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=harsh7401&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
-      </td>
+     <td width="60%" align="left" valign="middle" style="border: none;">
+  <img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harsh7401&theme=tokyonight"
+  width="100%"
+  alt="GitHub Activity"
+/>
       <td width="40%" align="center" valign="middle" style="border: none;">
         <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="85%" alt="Stats Side Coding GIF" />
       </td>
